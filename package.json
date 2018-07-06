@@ -1,0 +1,20 @@
+{
+  "name": "cobrabot",
+  "version": "1.0.0",
+  "description": "Cobra's Bot Made by: Yung Cobra #5754",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameran Grimes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.9.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "ms": "^2.1.1",
+    "npm": "^5.8.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.20.2"
+  }
+}
